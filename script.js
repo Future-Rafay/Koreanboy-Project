@@ -1,3 +1,7 @@
+// boom 
+
+
+
 function locomotive() {
     gsap.registerPlugin(ScrollTrigger);
   
